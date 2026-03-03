@@ -4,7 +4,7 @@
 </p>
 </h1>
 
-<img width="1532" height="540" alt="github-header" src="https://github.com/user-attachments/assets/9e5d5959-ed67-4442-89fb-897955a40165" />
+<img width="1532" height="540" alt="github-header" src="https://gist.github.com/user-attachments/assets/d5c9d3ba-1e3e-4da6-9eed-1825b80ce5f2" />
 
 <p align="center">
   A robust toolkit and SDK for building distributed AI agents.
