@@ -1,20 +1,9 @@
-<h1>
 <p align="center">
-  <br>Paper Compute Co.
-</p>
-</h1>
-
-<p align="center">
-  <img
-    alt="Paper Compute"
-    src="./papercompute-logo.svg#gh-light-mode-only"
-    width="320"
-  />
-  <img
-    alt="Paper Compute"
-    src="./papercompute-logo-dark.svg#gh-dark-mode-only"
-    width="320"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./papercompute-logo.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./papercompute-logo-dark.svg">
+    <img alt="Paper Compute" src="./papercompute-logo.svg" width="320">
+  </picture>
 </p>
 
 <p align="center">
